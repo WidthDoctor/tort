@@ -16,7 +16,7 @@ input , select{
     text-align: center;
     height: 50px;
 }
-button {
+.panel_wrapper button {
     font-size: 32px;
     height: 50px;
     width: 50px;
