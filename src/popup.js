@@ -1,10 +1,9 @@
 import "./popup.css"
 import React, { useState } from 'react';
 
-const PopUp = ({onClose, toCount}) =>{
+const PopUp = ({toCount,onClose}) =>{
   const [used, setUsed] = useState('');
   const handleAddClick = () => {
-    console.log(used);
     toCount(used);
   };
     return (
