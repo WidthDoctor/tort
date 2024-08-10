@@ -3,6 +3,8 @@ import React, { useState } from 'react';
 
 const PopUp = ({toCount,onClose}) =>{
   const [used, setUsed] = useState('');
+  console.log(used);
+
   const handleAddClick = () => {
     toCount(used);
   };
