@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tort/static/css/main.9c5c7424.css",
+    "main.js": "/tort/static/js/main.097fc07c.js",
+    "index.html": "/tort/index.html",
+    "main.9c5c7424.css.map": "/tort/static/css/main.9c5c7424.css.map",
+    "main.097fc07c.js.map": "/tort/static/js/main.097fc07c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5c7424.css",
+    "static/js/main.097fc07c.js"
+  ]
+}
